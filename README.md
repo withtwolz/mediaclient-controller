@@ -21,7 +21,8 @@ Next you will use 2 terminals
 
 [Running in Project](https://github.com/user-attachments/assets/e62b523b-4a22-46e3-9051-38cc6ec5b47e)
 
-[Running on Client](https://github.com/user-attachments/assets/1efd05ec-3b11-487d-a0b9-b68b2821a40d)
+[Running on Client](https://github.com/user-attachments/assets/7083ad60-0690-4981-a034-a30772d066f4)
+
 
 # Future Considerations
 - Still in progress at filling out more Pages
