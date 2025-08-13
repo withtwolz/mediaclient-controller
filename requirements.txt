@@ -1,0 +1,5 @@
+Appium-Python-Client==5.2.0
+ipdb==0.13.13
+pre-commit==4.3.0
+pytest==8.4.1
+pydantic-settings==2.10.1
