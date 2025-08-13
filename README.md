@@ -19,9 +19,9 @@ Next you will use 2 terminals
 
 # Examples
 
-Project:
+[Running in Project](https://github.com/user-attachments/assets/e62b523b-4a22-46e3-9051-38cc6ec5b47e)
 
-Client:
+[Running on Client](https://github.com/user-attachments/assets/1efd05ec-3b11-487d-a0b9-b68b2821a40d)
 
 # Future Considerations
 - Still in progress at filling out more Pages
