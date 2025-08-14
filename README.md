@@ -1,15 +1,15 @@
-# mediaclient-controller
-Python + Appium automation framework for testing Netflix's mobile game controller interface. Currently it can login, triggering controller activity still in progress
+# Netflix mediaclient-controller
+Python+Appium automation framework for testing Netflix's mobile app and game controller interface. Currently it can just [login](https://github.com/user-attachments/assets/7083ad60-0690-4981-a034-a30772d066f4), 
 
 # Prerequisites
 - [ ] Android Studio - set ANDROID_HOME environment variable to the directory path your android sdk is within
-- [ ] Java JDK 8+ - set JAVA_HOME environment variable
-- [ ] Node.js & npm - For installing and running Appium server
+- [ ] Java JDK 8+ - set JAVA_HOME environment variable (`which java` can help here)
+- [ ] Node.js & npm - For installing and running Appium server 
 - [x] Python 3.11+
 - [x] Netflix mobile app - Installed on target Android device/emulator
 - [ ] Android device or emulator plugged in - For running the tests
 - [ ] ADB / Android SDK bundled platform-tools for debugging and connectivity  
-This [old article covers](https://swtestacademy.com/how-to-install-appium-on-mac/) where you may find most of your dependencies, keepping in mind you should look for the latest installations from the respective site or your CLI.
+This [article covers](https://swtestacademy.com/how-to-install-appium-on-mac/) where you may find most of your dependencies; keep in mind you should look for the latest installations from the respective developers site or your CLI.
 
 # Setup
 This project uses a Makefile and bash scripts to simplify the setup  
