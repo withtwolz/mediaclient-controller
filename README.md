@@ -1,5 +1,5 @@
 # Netflix mediaclient-controller
-Python+Appium automation framework for testing Netflix's mobile app and game controller interface. Currently it can complete [login](https://github.com/withtwolz/mediaclient-controller/?tab=readme-ov-file#examples) with full app and Game control planned for the future.  
+Python+Appium automation framework for testing Netflix's mobile app and game controller interface. Currently it can complete [login](https://github.com/withtwolz/mediaclient-controller?tab=readme-ov-file#running-example) with full app and Game control planned for the future.  
 
 # Prerequisites
 - [ ] Android Studio - set ANDROID_HOME environment variable to the directory path your android sdk is within
