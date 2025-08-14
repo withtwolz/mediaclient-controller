@@ -21,8 +21,11 @@ Next you will use 2 terminals
 # Running Example
 
 Project running Appium + pytests:  
+
 [Running in Project](https://github.com/user-attachments/assets/e62b523b-4a22-46e3-9051-38cc6ec5b47e)  
+
 Appium Running Client ([test source](https://github.com/withtwolz/mediaclient-controller/blob/main/tests/test_controller.py)):  
+
 [Running on Client](https://github.com/user-attachments/assets/7083ad60-0690-4981-a034-a30772d066f4)  
 
 
