@@ -12,11 +12,12 @@ Python+Appium automation framework for testing Netflix's mobile app and game con
 This [article covers](https://swtestacademy.com/how-to-install-appium-on-mac/) where you may find most of your dependencies; keep in mind you should look for the latest installations from the respective developers site or your CLI.
 
 # Setup
-This project uses a Makefile and bash scripts to simplify the setup  
-1. `make setup` > this will install all the project dependencies  
-Next you will use 2 terminals
-2. `make appium` > this terminal will run the Appium server
-3. `make test` > this terminal will run the `/tests`. Right now only login is covered
+This project uses a Makefile and bash scripts to simplify the setup from your terminal:  
+1. `export PYTHONPATH=.` > tells python the path to import from  
+2. `make setup` > this will install all the project dependencies and virtualenv  
+#### Next you will use 2 terminal/cli sessions:
+3. `make appium` > this terminal will run the Appium server  
+4. `make test` > this terminal will run the `/tests`. Right now only login is covered  
 
 # Running Example
 
